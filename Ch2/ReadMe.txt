@@ -8,5 +8,7 @@ chinook.m creates Fig. 2.4, based on data in Botsford_Brittnacher_chinook_data.c
 
 logistic_model_plots.m creates Fig. 2.5
 
+theta_logistic_plots.m creates Fig. 2.6
+
 logistic_versions.m creates Fig. 2.7
 
