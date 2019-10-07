@@ -6,5 +6,5 @@ pheasant.m creates Fig. 2.3
 
 chinook.m creates Fig. 2.4, based on data in Botsford_Brittnacher_chinook_data.csv
 
-logistic_plots.m creates Fig. 2.5
+logistic_model_plots.m creates Fig. 2.5
 
