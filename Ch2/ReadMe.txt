@@ -12,3 +12,5 @@ theta_logistic_plots.m creates Fig. 2.6
 
 logistic_versions.m creates Fig. 2.7
 
+ricker_bevholt.m creates Fig. 2.8
+
