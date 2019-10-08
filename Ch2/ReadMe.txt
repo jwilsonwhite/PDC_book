@@ -20,5 +20,7 @@ ricker_cobweb.m creates Fig. 2.9 & 2.12
 
 taylor_example.m creates Fig. 2.11
 
+quasi_extinction.m creates Fig. 2.13
+
 
 
