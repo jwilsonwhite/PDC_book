@@ -3,7 +3,7 @@ function ricker_cobweb
 % Plot the Ricker function with cobwebbing
 
 %----------------------------------------------------------------
-% Plot #1 : Example (Figure 2.8):
+% Plot #1 : Example (Figure 2.9):
 % Ricker parameters
 a = 5;
 b = 1;
@@ -98,7 +98,7 @@ ylabel('N','fontsize',12);
 
 %----------------------------------------------------------------
 % Plots #2: Examples of Ricker stability analysis, with different values of
-% F'(X) (Figure 2.11)
+% F'(X) (Figure 2.12)
 
 figure(2)
 set(gcf,'units','cent','position',[20,40,18,28])
