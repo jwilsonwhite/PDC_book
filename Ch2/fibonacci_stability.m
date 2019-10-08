@@ -1,4 +1,4 @@
-function [L1, L2] = fibonacci_stability
+function [c1, c2, L1, L2] = fibonacci_stability
 
 % Illustrate (in)stability of Fibonacci's rabbit problem
 
