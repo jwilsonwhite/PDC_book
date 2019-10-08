@@ -22,6 +22,10 @@ taylor_example.m creates Fig. 2.11
 
 quasi_extinction.m creates Fig. 2.13
 
+central_limit_theorem.m creates Fig. 2.14
+
+(Fig. 2.15 was created in Adobe Illustrator)
+
 fibonacci_stability.m calculates the roots associated with the stability analysis of the rabbit model (Eq. 2.20)
 
 
