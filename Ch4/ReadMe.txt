@@ -14,4 +14,6 @@ Taylor_model.m creates Fig. 4.8
 
 (Fig. 4.10 code to be added)
 
-SRcurves_plot.m create Fig. 4.11
+SRcurves_plot.m creates Fig. 4.11
+
+fourier_example.m creates Fig. 14.12 
