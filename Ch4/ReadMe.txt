@@ -8,7 +8,10 @@ Leslie_transient.m creates Figs. 4.2, 4.3, 4.6, 4.8
 
 pinksalmon.m creates Fig. 4.5 using data in Peterman_pink.csv
 
-Taylor_model.m creates 4.8 
+Taylor_model.m creates Fig. 4.8 
 
 (Fig. 4.9 created in Abobe Illustrator)
 
+(Fig. 4.10 code to be added)
+
+SRcurves_plot.m create Fig. 4.11
