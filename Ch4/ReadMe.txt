@@ -17,3 +17,7 @@ Taylor_model.m creates Fig. 4.8
 SRcurves_plot.m creates Fig. 4.11
 
 fourier_example.m creates Fig. 14.12 
+
+filter_example.m creates Fig. 14.13
+
+skagerrak.m 
