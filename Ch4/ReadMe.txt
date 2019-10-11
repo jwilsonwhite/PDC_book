@@ -20,4 +20,10 @@ fourier_example.m creates Fig. 14.12
 
 filter_example.m creates Fig. 14.13
 
-skagerrak.m 
+skagerrak.m creates Fig. 14.14, using data in skagerrak_clean.csv
+
+(Fig 4.15 code to be added)
+
+(Fig. 4.16 redrawn from White et al. 2016, Ecol. Monogr.)
+
+
