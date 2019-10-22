@@ -13,7 +13,7 @@ incidence_function.m creates Fig. 9.4
 
 MPA_persistence creates Fig. 9.6
 
-MPA_spatial_map_habitat creates Fig. 9.7
+MPA_spatial_map_habitat creates Fig. 9.7. This calls dispmatrix.m to create dispersal matrix, and uses data in Habitats&Reserves.csv, based on reserve & habitat distribution in central California, USA
 
 
 
