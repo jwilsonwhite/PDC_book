@@ -7,6 +7,6 @@ simple_fishery_models.m creates Fig. 11.1
 bevholt_plaice.m creates Fig. 11.3
 (needs work on annotation)
 
-plaice.m (needs work on annotation)
+plaice.m creates Fig. 11.4a,b
 
 mace_sissenwine.m creates Fig. 11.5
