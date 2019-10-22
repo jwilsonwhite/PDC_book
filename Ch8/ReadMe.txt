@@ -2,7 +2,7 @@ ReadMe for Chapter 8
 
 quasiext.m creates Fig. 8.1 showing quasiextinction probabilities
 
-Fig 8.2???
+Fig 8.2??? Also need to fix annotation in totoaba_ext before uploading
 
 totoaba_ext.m creates Fig. 8.3 (as well as another more complicated figure that was not used in the book)
 
