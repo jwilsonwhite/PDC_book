@@ -16,11 +16,11 @@ Taylor_model.m creates Fig. 4.8
 
 SRcurves_plot.m creates Fig. 4.11
 
-fourier_example.m creates Fig. 14.12 
+fourier_example.m creates Fig. 4.12 
 
-filter_example.m creates Fig. 14.13
+filter_example.m creates Fig. 4.13
 
-skagerrak.m creates Fig. 14.14, using data in skagerrak_clean.csv
+skagerrak.m creates Fig. 4.14, using data in skagerrak_clean.csv
 
 (Fig 4.15 code to be added)
 
