@@ -13,9 +13,11 @@ Within the subdirectory 'DB Files With Assessment Data', the file PDC_book_SR_cu
 
 (Fig. 11.7 was created using Adobe Illustrator)
 
-(Figs. 11.8 and 11.9 were redrawn using Adobe Illustrator based on figures in White et al. 2010, Ecological Applications)
+(Figs. 11.9 and 11.10 were redrawn using Adobe Illustrator based on figures in White et al. 2010, Ecological Applications)
 
-decisionplot.m creates Fig. 11.10, based on results from White et al. 2010, Ecological Applications.
+decisionplot.m creates Fig. 11.11, based on results from White et al. 2010, Ecological Applications.
+
+(Fig. 11.12 was redrawn using Adobe Illustrator based on figures in White et al. 2013, Conservation Letters)
 
 
 
